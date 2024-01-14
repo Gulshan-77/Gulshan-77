@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Gulshan-77
 - 👀 I’m interested in building projects.
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently working on Web development and responsive design.
+- Skills - HTML5, CSS3, Bootstrap, SASS, Javascript ES6, React.js, Redux (Redux.js, Redux tool kit ) , Redux Thunk, Git etc
+- React Hooks, React Router, Rest API, Material UI, Styled Components, Netlify, Responsive design etc
 
 
 <!---
